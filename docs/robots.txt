@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://axelbase.github.io/tiktok-caption-counter/sitemap.xml
+
+Sitemap: https://tiktok-caption-counter.vercel.app/sitemap.xml
